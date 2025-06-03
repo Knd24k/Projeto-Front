@@ -1,4 +1,4 @@
-# Site de Jogos com React + Vite + RAWG API (Versão Final Atualizada)
+# Site de Jogos com React +  RAWG API (Versão Final Atualizada)
 
 ## Funcionalidades
 
