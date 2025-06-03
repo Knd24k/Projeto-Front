@@ -2,20 +2,17 @@
 
 ## Funcionalidades
 
-- Busca de jogos (API RAWG) com paginação (20 itens por vez).
+- Busca de jogos (API RAWG).
 - Categorias (Action, Simulation, Indie, Adventure, Racing, Sports).
-- Seção "Recomendados" com três títulos fixos, cards dimensionados corretamente.
+- Seção "Recomendados" com três títulos fixos.
 - Exibição de avaliações (rating) dos jogos.
 - Sistema de Favoritos por usuário.
 - Dark Mode (claro/escuro) com toggle personalizado.
 - Páginas de Login e Cadastro separadas.
-- Ao logar, exibe o nickname em vez do "Login".
-- Dropdown de usuário com "Meus Favoritos" e "Sair".
-- Layout responsivo e estilizado em português.
-- Logo maior e clicável para retornar ao Home.
-- Cabeçalho fixo com gradiente `#4B0055 → #013109`.
+- Ao logar, exibe o nickname.
+- Logo clicável para retornar ao Home.
 - Toggle de "Grade / Lista" para exibição dos jogos com ícones Unicode.
-- Espaçamentos ajustados para busca, categorias, recomendados, login e rodapé.
+- Busca ajustado 
 
 ## Como usar
 
